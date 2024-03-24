@@ -15,7 +15,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "@ethersproject/abi": "5.0.7",
-        "web3-utils": "1.5.2"
+        "web3-utils": "4.2.1"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
